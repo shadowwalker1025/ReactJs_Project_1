@@ -2,7 +2,7 @@ import './App.css';
 import NewsPage from './NewsPage';
 
 function App() {
-  return <NewsPage />
+  return( <NewsPage /> )
 }
 
 export default App;
